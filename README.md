@@ -10,6 +10,9 @@ RPGツクールMZで使うプラグインです。
 盗作、プラグイン単体の有償配布といった  
 迷惑行為は行わないようにお願いします。  
   
+## 作者  
+舟虫  
+  
 ## ライセンス  
 This software is released under the MIT License.  
 http://opensource.org/licenses/mit-license.php
